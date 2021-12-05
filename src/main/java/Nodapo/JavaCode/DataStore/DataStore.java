@@ -1,4 +1,4 @@
-package Nodapo.JavaCode.Service;
+package Nodapo.JavaCode.DataStore;
 
 import java.util.ArrayList;
 import java.util.Arrays;
